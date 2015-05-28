@@ -5,6 +5,7 @@ Technologies used
 
 * PHP
 * HTML
+* MySQL
 
 Instructions
 -------------
